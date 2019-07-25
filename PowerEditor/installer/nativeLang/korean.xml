@@ -65,6 +65,7 @@
   <Item subMenuId="encoding-vietnamese" name="베트남어"/> 
   <Item subMenuId="settings-import" name="가져오기"/> 
   <Item subMenuId="tools-md5"  name="MD5"/>
+  <Item subMenuId="tools-sha256"  name="SHA-256"/>
   </SubEntries>
 <!--  all menu item --> 
 <Commands>
@@ -268,10 +269,12 @@
   <Item id="45011" name="UTF-8로 변환"/> 
   <Item id="45012" name="UCS-2 빅 엔디언으로 변환"/> 
   <Item id="45013" name="UCS-2 리틀 엔디언으로 변환"/> 
+
   <Item id="10001" name="분할 창으로 이동"/> 
   <Item id="10002" name="분할 창으로 복제"/> 
   <Item id="10003" name="새 창으로 이동(창 이동)"/> 
   <Item id="10004" name="새 창에서 열기(창 복사)"/> 
+
   <Item id="46001" name="스타일 설정..."/> 
   <Item id="46250" name="언어 정의..."/> 
   <Item id="46180" name="사용자 정의"/> 
@@ -291,6 +294,8 @@
   <Item id="48018" name="팝업 컨텍스트 메뉴 편집"/> 
   <Item id="48009" name="단축키 설정..."/> 
   <Item id="48011" name="환경 설정..."/> 
+  <Item id="48014" name="플러그인 폴더 열기..."/> 
+  <Item id="48015" name="플러그인 관리..."/> 
   <Item id="48501" name="생성..."/>
   <Item id="48502" name="파일에서 생성..."/>
   <Item id="48503" name="클립보드에 생성"/>
